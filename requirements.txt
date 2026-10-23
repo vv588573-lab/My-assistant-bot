@@ -3,3 +3,12 @@ requests
 python-dotenv
 gtts
 SpeechRecognition
+flask
+pydub
+pyTelegramBotAPI
+requests
+python-dotenv
+gtts
+SpeechRecognition
+flask
+pydub
