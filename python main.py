@@ -10,10 +10,7 @@ import subprocess
 
 load_dotenv()
 
-# Aapki details yahan hain
-BOT_TOKEN = os.getenv("BOT_TOKEN")
-GROQ_KEY = os.getenv("GROQ_KEY")
-ALLOWED = int(os.getenv("ALLOWED_USER_ID"))
+# 
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
